@@ -1,0 +1,151 @@
+body {
+  margin: 10px;
+  background-color: #F0E68C;
+}
+
+
+
+.img-responsive {
+        margin: 0 auto;
+}
+
+.dashboard-container {
+  font-size: 16px;
+  margin-top: 50px;
+}
+
+.imagefile {
+  height: 100px;
+  width: 200px;
+  
+}
+
+.imageicon {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  text-align: center;
+}
+
+hr {
+  border: 1px dotted black;
+}
+
+
+.card1{
+  padding: 5px;
+  padding-top:15px ;
+  background-color: #ef8484;
+  border: 1px solid #ef8484;
+  border-radius: 8px;
+  height: 100px;
+  width: 100%;
+  text-align: center;
+}
+
+.card2{
+  padding: 5px;
+  padding-top:15px ;
+  background-color: #89c0d3;
+  border: 1px solid #89c0d3;
+  border-radius: 8px;
+  height: 100px;
+  width: 100%;
+    text-align: center;
+}
+
+.card3{
+  padding: 5px;
+  padding-top:15px ;
+  background-color: #e5e55d;
+  border: 1px solid #e5e55d;
+  border-radius: 8px;
+  height: 100px;
+  width: 100%;
+    text-align: center;
+}
+
+.card4{
+  padding: 5px;
+  padding-top:15px; 
+  background-color: #e9b556;
+  border: 1px solid #e9b556;
+  border-radius: 8px;
+  height: 100px;
+  width: 100%;
+    text-align: center;
+}
+
+.dashboard-heading {
+  font-size: 20px; 
+  display: inline-block;
+
+}
+  
+
+ .user-info {
+margin-right: 10px;
+font-size: 22px;
+font-weight: bold;
+
+}
+
+
+.button-container {
+  margin-top: 50px;
+}
+
+.dashboard-button {
+  padding: 10px 20px;
+  font-size: 12px;
+  border: solid;
+}
+
+.mainPage {
+  border-bottom: 30px;
+  
+}
+
+.btn-info {
+  color: white;
+  border-color: currentColor;
+}
+
+.twos {
+  display: flex;
+}
+
+.flagIcon{
+   width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+.addNewBtn {
+  margin-bottom: 15px;
+  width: 100%;
+  font-size: 12px;
+}
+
+.formBody {
+  padding: 20px;
+  border: 1px solid black;
+
+}
+
+.form-inline label {
+  margin: 5px 10px 5px 0;
+}
+
+.form-inline input {
+  vertical-align: middle;
+  margin: 5px 10px 5px 0;
+  padding: 10px;
+  background-color: skyblue;
+  border: 1px solid;
+}
+
+.mainPage a {
+  text-decoration: none;
+  color: #000;
+}
+
